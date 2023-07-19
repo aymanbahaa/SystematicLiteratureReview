@@ -14,7 +14,7 @@ You may need to add new referncing styles referncing to your Microsoft Word, if 
 
 To add new styles please do the following
 
-1. Download the [Styles.zip]((https://github.com/aymanbahaa/SystematicLiteratureReview/raw/main/styles.zip)) file availble in the REPO
+1. Download the Styles.zip (https://github.com/aymanbahaa/SystematicLiteratureReview/raw/main/styles.zip) file availble in the REPO
 2. Open the Styles.Zip file
 3. Select the styles (.xsl) files you want to add, for example IEEE_Refernces.XSL
 4. Copy the file to the directory: C:\Users\[Your User Directory]\AppData\Roaming\Microsoft\Bibliography\Style
