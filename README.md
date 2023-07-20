@@ -36,6 +36,7 @@ https://github.com/aymanbahaa/SystematicLiteratureReview/blob/c1d6c4601c72b6adef
 
 **Video Link**
 YouTube Vide of the presentation (in Arabic) is here:
+https://youtube.com/playlist?list=PLy_2fgXkPiZvgPpp_UMd_ZKT6DKMB8vGN
 
 **Sample Paper**
 You can find a sample published Systematic Review and Taxonomy Paper as a guidance for your first paper draft.
