@@ -41,3 +41,14 @@ YouTube Vide of the presentation (in Arabic) is here:
 You can find a sample published Systematic Review and Taxonomy Paper as a guidance for your first paper draft.
 Alia Hamza Paper.pdf here: 
 https://github.com/aymanbahaa/SystematicLiteratureReview/blob/566c0d32ca001254b7863b8a423b0a0ca998c26f/Alia%20Hamza%20Paper.pdf
+
+**References**
+[1]	University of Technolgy, Malaysia. (2023) Library Information Excellence. [Online]. https://people.utm.my/corrienna/files/2019/07/Writing-Literature-Review.ppt
+
+[2]	Barbara Kitchenham et al., "Systematic literature reviews in software engineering-a systematic literature review," Information and software technology, vol. 51, pp. 7–15, 2009.
+
+[3]	Alison Nightingale, "A guide to systematic literature reviews," Surgery (Oxford), vol. 27, pp. 381–384, 2009.
+
+[4]	Adrian White and Katja Schmidt, "Systematic literature reviews," Complementary therapies in medicine, vol. 13, pp. 54–60, 2005.
+
+
