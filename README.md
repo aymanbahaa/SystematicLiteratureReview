@@ -11,6 +11,7 @@ To install JabRef, please visit https://jabref.org/ and download the package,
 It is written with Java and works on all platforms.
 
 **Adding New Referencing Styles to Microsoft Word**
+
 You may need to add new referencing styles referencing to your Microsoft Word, if you are using it to edit your work.
 
 To add new styles please do the following:
@@ -36,13 +37,15 @@ https://github.com/aymanbahaa/SystematicLiteratureReview/blob/c1d6c4601c72b6adef
 
 **Video Link**
 
-YouTube Vide of the presentation (in Arabic) is here:
+YouTube Videos of the presentation (in Arabic) is here:
 
 https://youtube.com/playlist?list=PLy_2fgXkPiZvgPpp_UMd_ZKT6DKMB8vGN
 
 **Sample Paper**
+
 You can find a sample published Systematic Review and Taxonomy Paper as a guidance for your first paper draft.
 Alia Hamza Paper.pdf here: 
+
 https://github.com/aymanbahaa/SystematicLiteratureReview/blob/566c0d32ca001254b7863b8a423b0a0ca998c26f/Alia%20Hamza%20Paper.pdf
 
 **ChatPDF**
